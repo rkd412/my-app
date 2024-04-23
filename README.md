@@ -1,1 +1,1 @@
-# my-app
+Just messing around with Next.js and Tailwind. Been a little while and I miss it.
