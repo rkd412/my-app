@@ -1,1 +1,1 @@
-Just messing around with Next.js and Tailwind. Been a little while and I miss it.
+Just messing around with Next.js and Tailwind.
